@@ -8,7 +8,7 @@ I specialize in crafting robust backend architectures, deploying machine learnin
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [isaacron195@gmail.com](mailto:isaacron195@gmail.com)
-* 🚀  I'm currently working on [FeeDesk](http://https://feedesk-frontend.onrender.com/)
+* 🚀  I'm currently working on [FeeDesk](https://feedesk-frontend.onrender.com/)
 * 🧠  I'm currently learning cloud architecture, applied machine learning, and data engineering pipelines.
 * 👥  I'm looking to collaborate on innovative software projects, cloud-native applications, and data systems.
 
