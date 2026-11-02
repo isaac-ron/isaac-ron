@@ -32,9 +32,25 @@ I specialize in crafting robust backend architectures, deploying machine learnin
   </a>
 </p>
 
-### Badges
+### GitHub Stats
 
-<b>Profile</b>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaac-ron&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-ron&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180" />
+</p>
+
+### Top Repositories
+
+<p align="left">
+  <a href="https://github.com/isaac-ron/FeeDesk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isaac-ron&repo=FeeDesk&theme=tokyonight" alt="FeeDesk repository card" />
+  </a>
+  <a href="https://github.com/isaac-ron/isaac-ron">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isaac-ron&repo=isaac-ron&theme=tokyonight" alt="Profile repository card" />
+  </a>
+</p>
+
+### Profile
 
 <a href="https://github.com/isaac-ron" target="_blank" rel="noreferrer">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/isaac-ron?label=Followers&style=social">
@@ -45,11 +61,3 @@ I specialize in crafting robust backend architectures, deploying machine learnin
 <a href="https://github.com/isaac-ron/FeeDesk" target="_blank" rel="noreferrer">
   <img alt="FeeDesk repository" src="https://img.shields.io/badge/FeeDesk-Repository-0A66C2?logo=github&logoColor=white">
 </a>
-
-<b>Featured Project</b>
-
-<div align="left">
-  <a href="https://github.com/isaac-ron/FeeDesk">
-    <img src="https://img.shields.io/badge/FeeDesk-Backend%20%26%20UI-0a0a0a?logo=github&logoColor=white" alt="FeeDesk project">
-  </a>
-</div>
